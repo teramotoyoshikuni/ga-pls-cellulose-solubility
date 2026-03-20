@@ -17,7 +17,7 @@ The study focuses on modeling logS (and related response variables) for cellulos
 │   ├── raw/                # Original descriptor datasets
 │   └── final/              # Descriptor sets after GA selection and correlation filtering
 │
-├── scripts/
+├── src/
 │   ├── gapls_nested_loocv.py
 │   ├── final_pls_loocv_vip.py
 │   ├── y_randomization_loocv.py
